@@ -1,9 +1,14 @@
-# Machine learning playlist
-- This project goes through the mathematics of machine learning and translated into code.
-- [@krishnaik06](https://github.com/krishnaik06)
-
+# Machine learning
+- Personal repository which goes through the mathematics of machine learning and translated into code.
 ## Content
-- Calculus
-- Linear algebra
-- Statistics
-- Probability
+* Statistics
+  * R Squared
+  * Multicollinearity
+  * Hypotheses testing (T test, P value, Correlation)
+  * Linear regression
+  * Ridge regression
+  * Lasso regression
+* Calculus
+  * Gradient descent
+* Linear algebra
+* Probability
