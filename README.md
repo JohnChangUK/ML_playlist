@@ -1,4 +1,4 @@
-# Machine learning
+# Machine Learning
 - Personal repository which goes through the mathematics of machine learning and translated into code.
 ## Content
 * Statistics
