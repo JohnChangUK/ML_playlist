@@ -1,3 +1,3 @@
-# Machine learning playlist - Krish Naik
-- Code content from the playlist
+# Machine learning playlist
+- This project goes through the mathematics of machine learning and translated into code.
 - [@krishnaik06](https://github.com/krishnaik06)
