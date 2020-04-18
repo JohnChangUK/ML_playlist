@@ -4,7 +4,7 @@
 * Statistics
   * R Squared
   * Multicollinearity
-  * Hypotheses testing (T test, P value, Correlation)
+  * Hypotheses testing (T test, P value, Correlation, Anova)
   * Linear regression
   * Ridge regression
   * Lasso regression
